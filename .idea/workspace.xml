@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10d2f0ee-1b24-42c4-95bd-1352260508ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/validador/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validador/src/test/java/Domain/main/InscripcionTest.java" afterDir="false" />
+    <list default="true" id="10d2f0ee-1b24-42c4-95bd-1352260508ae" name="Changes" comment="entrega">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validador/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validador/src/main/java/Domain/main/Alumno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validador/src/main/java/Domain/main/Inscripciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validador/src/main/java/Domain/main/Materia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validador/src/test/java/Domain/main/InscripcionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validador/target/classes/Domain/main/Alumno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validador/target/classes/Domain/main/Inscripcion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validador/target/classes/Domain/main/Materia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validador/target/test-classes/Domain/main/InscripcionTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,14 +57,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.InscripcionTest.InscripcionFallada.executor": "Run",
+    "JUnit.InscripcionTest.InscripcionTestAm2.executor": "Run",
+    "JUnit.InscripcionTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/FACUNDO/UTN/2025/Diseño de Sistemas de Informacion",
+    "last_opened_file_path": "D:/FACUNDO/UTN/2025/Diseño de Sistemas de Informacion/Validador_de_inscipciones",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -154,11 +167,33 @@
       <updated>1743810483774</updated>
       <workItem from="1743810484941" duration="109000" />
       <workItem from="1743810607025" duration="11080000" />
-      <workItem from="1743827635261" duration="1945000" />
+      <workItem from="1743827635261" duration="2292000" />
+      <workItem from="1743863705002" duration="2203000" />
     </task>
+    <task id="LOCAL-00001" summary="entrega">
+      <option name="closed" value="true" />
+      <created>1743829756662</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743829756662</updated>
+    </task>
+    <task id="LOCAL-00002" summary="entrega">
+      <option name="closed" value="true" />
+      <created>1743829892366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743829892366</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="entrega" />
+    <option name="LAST_COMMIT_MESSAGE" value="entrega" />
   </component>
 </project>
